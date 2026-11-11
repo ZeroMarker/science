@@ -6,6 +6,7 @@
 - [生物分类与生命之树工具指南](docs/tree-of-life.md)
 - [地球现象与地理可视化工具指南](docs/earth-geography.md)
 - [氨基酸基础知识与速查](docs/amino-acids.md)
+- [维生素基础知识与速查](docs/vitamins.md)
 
 这份指南整理了 9 个用于化合物检索、分子结构查看、反应动画学习及元素性质查询的网站，适合日常探索、课堂教学和结构研究入门。
 
